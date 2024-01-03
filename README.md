@@ -39,9 +39,8 @@
  Ensure the Docker images are optimized.<br/>
  Secure sensitive information in environment variables or secrets.<br/>
 <h2>Summary:</h2>
-This project involves creating a web application connected to a MySQL database using Docker containers. <br/>
-The steps include setting up the app, configuring the MySQL database, orchestrating services with Docker<br/>
-Compose, testing, debugging, documenting, and preparing for deployment.Each step involves specific config<br/>
--uration, coding, and Docker-related tasks to complete the Dockerized project successfully. Adjustments or<br/>
-additionalconfigurations might be necessary based on specific project requirements or application function<br/>
--alities.<br/>
+This project involves creating a web application connected to a MySQL database using Docker containers.
+The steps include setting up the app, configuring the MySQL database, orchestrating services with Docker
+Compose, testing, debugging, documenting, and preparing for deployment.Each step involves specific configuration, 
+coding, and Docker-related tasks to complete the Dockerized project successfully. Adjustments or additional 
+configurations might be necessary based on specific project requirements or application functionalities.
